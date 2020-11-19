@@ -1,0 +1,12 @@
+{
+    "name": "ajimoti/paystack",
+    "description": "This package handles Paystack payments",
+    "authors": [
+        {
+            "name": "ajibukunoluwa",
+            "email": "ibukunajmoti@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
